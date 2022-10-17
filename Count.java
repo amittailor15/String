@@ -1,3 +1,7 @@
+/*
+WAP to count the number of Vowels and Consonants of a String value.
+*/
+
 package pr;
 import java.util.*;
 public class Count
