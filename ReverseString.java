@@ -1,3 +1,9 @@
+/*
+WAP to reverse a String.
+Input: “InDia”
+Output: aiDnI”
+*/
+
 package pr;
 import java.util.*;
 
