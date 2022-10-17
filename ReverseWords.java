@@ -1,3 +1,9 @@
+/*
+WAP to reverse a sentence while preserving the position.
+Input : “Think Twice”
+Output : “kniht eciwt”
+*/
+
 package pr;
 import java.util.*;
 
