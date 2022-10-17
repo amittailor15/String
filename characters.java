@@ -1,3 +1,7 @@
+/*
+WAP to count number of special characters.
+*/
+
 package pr;
 import java.util.Scanner;
 
