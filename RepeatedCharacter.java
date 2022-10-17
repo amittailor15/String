@@ -1,3 +1,7 @@
+/*
+WAP to print repeatedly occurring characters in the given String.
+*/
+
 package pr;
 import java.util.*;
 
